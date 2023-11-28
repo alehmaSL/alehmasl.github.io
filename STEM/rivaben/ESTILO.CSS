@@ -1,0 +1,120 @@
+/* styles.css */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f6e1be;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #d4c86a;
+    color: #3a1313;
+    text-align: center;
+    padding: 20px;
+}
+ img {
+ width: fit-content;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(196, 225, 165, 0.449);
+}
+
+.navItem{
+    border: solid 1px black;
+    width: 25%;
+    text-align: center;
+    padding: 1%;
+  }
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+#contenedor{
+    width: 90%;
+    margin: auto;
+    background-color: rgb(232, 133, 133);
+}
+
+#cuatro,#tres,#dos{
+    display: flex;
+    justify-content: space-around;
+}
+
+.tarjetauno,.tarjetaTres,.tarjetaDos{
+    border: solid 1px grey;
+    background-color: rgb(101, 134, 106);
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: 15px 15px 15px hsl(0, 0%, 100%);
+    width: 80%;
+    margin: 1%;
+    padding: 1%;
+}
+
+.tarjetauno{
+    width: 30%;
+}
+
+
+.imgTarjeta{
+    max-width: 100%;
+    border-radius: 50px;
+}
+
+footer {
+    background-color: #333;
+    color: #b97d7d;
+    text-align: center;
+    padding: 10px;
+}
+h1{text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: courier;
+    font-size: 4em;}
+    
+  
+    
+    body {
+        font-family: 'Arial', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+        text-align: center;
+    }
+    
+    header {
+        background-color: #b6c4fc;
+        color: #fff;
+        padding: 10px;
+    }
+    
+    section {
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #a1d7ec;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+        text-align: left;
+    }
+    
+    img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+    

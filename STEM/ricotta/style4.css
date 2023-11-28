@@ -1,0 +1,68 @@
+body {
+    background-image: url('medio-ambiente.jpg');
+}
+.HOME a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    }
+#contenedor {
+    width: 90%;
+    margin: auto;
+}
+
+#cuartos {
+    display: flex;
+    justify-content: space-around;
+}
+
+#tercios {
+    display: flex;
+    justify-content: space-around;
+}
+
+#medios {
+    display: flex;
+    justify-content: space-around;
+}
+
+.tarjetaChica {
+    width: 20%;
+    border-radius: 5px; 
+    text-align: center;
+    border: solid;
+    margin: 1%;
+    padding: 1%;
+}
+
+.tarjetaMediana {
+    width: 50%;
+    border-radius: 5px;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    font-size: x-large;
+}
+
+.tarjetaGrande {
+    width: 40%;
+    border-radius: 5px;
+    text-align: center;
+    border: solid;
+    margin: 1%;
+    padding: 1%;
+}
+
+.grohl {
+    max-width: 100%;
+}
+#navegacion {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+#navegacion a {
+    color: rgb(42, 42, 41);
+    text-decoration: none;
+    font-size: x-large;
+}

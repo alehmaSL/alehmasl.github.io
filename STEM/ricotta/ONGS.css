@@ -1,0 +1,29 @@
+
+#navegacion {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+#navegacion a {
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: x-large;
+}
+.HOME{
+    text-align: left;  
+    font-size: x-large;
+}
+.HOME a{
+color: antiquewhite;
+text-decoration: none;
+}
+.titulo{
+    color: antiquewhite;
+    font-size: x-large;
+}
+
+body{
+    background-image: url('medio\ ambiente.jpeg');
+    background-repeat: no-repeat;
+}

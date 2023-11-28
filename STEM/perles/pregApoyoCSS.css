@@ -1,0 +1,18 @@
+h1{
+    background-color: rgb(210, 146, 172);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+img{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding-left: 25%;
+    width: 900px;
+}

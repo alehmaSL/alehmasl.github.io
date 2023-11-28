@@ -1,0 +1,112 @@
+body{
+    background-color:#008BF8;
+}
+.todos{
+    font-family: 'Merriweather', serif;
+    background-color: rgba(255, 255, 255, 0.781);
+    width: 90%;
+    margin:0 5%;
+    box-shadow:0px 0px 20px 10px rgb(255, 255, 255)  ;
+}
+h1{
+    text-align: center;
+    color: #005ba1;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.btn-danger{
+    background-color: #005ba1;
+    border-color: #008BF8;
+}
+.btn-danger:hover{
+    background-color: #68a4d2;
+    border-color: #008BF8;
+}
+.dropdown-toggle:hover{
+    background-color: #68a4d2;
+}
+.dropdown-menu{
+    background-color: #68a4d2;
+}
+.dropdown-item{
+    font-style: italic;
+    background-color: #68a4d2;
+    border-color: #005ba1;
+    color: white;
+}
+.dropdown-item:hover{
+    background-color: #589dd2;
+    color: white;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+#carouselExampleSlidesOnly{
+    max-width: 70%;
+    margin: 0 15%;
+}
+hr{
+    color: #005ba1;
+}
+.instalaciones{
+    display: flex;
+    margin: 10%;
+
+}
+h2{
+    color: #005ba1;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.cuatrofotos{
+    margin-left: 5%;
+}
+td{
+    width: 50%;
+}
+.cuatrofotos img{
+    width:95%;
+    border-radius: 100%;
+    padding: 1%;
+}
+.secpros{
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    padding: 0 5%;
+    margin:10% 0 ;
+}
+.pros{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+.pros img{
+    width: 32%;
+    border-radius: 100%;
+}
+.pros p{
+    width: 32%;
+    font-size:large;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.Footerlogo{
+    padding-right: 10%;
+}
+.Footerdire{
+    padding-left: 1%;
+}
+.footerimg{
+    display: flex;
+   flex-direction: row;
+   padding-right: 10%;
+}
+.imgfooter{
+    height: 20px;
+    display: inline;
+    margin: 0 20%;
+}

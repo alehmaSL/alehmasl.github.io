@@ -1,0 +1,105 @@
+body {
+    background-image: url('https://medioambiente893532467.files.wordpress.com/2018/01/aire-puro-y-enfisema-pulmonar-1.jpg?w=700&h=300&crop=1')
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+#contenedor {
+    width: 90%;
+    margin: auto;
+    background-color: rgb(126, 214, 243);
+}
+
+#medios {
+    display: flex;
+    justify-content: space-around;
+}
+
+#tercios {
+    background-color: rgb(126, 214, 243);
+    display: flex;
+    justify-content: space-around;
+}
+
+#cuartos {
+    background-color: rgb(126, 214, 243);
+    display: flex;
+    justify-content: space-around;
+}
+
+.tarjetaChica {
+    width: 20%;
+    background-color: rgb(126, 214, 243);
+    border-radius: 5px; 
+    text-align: center;
+    border: solid;
+    margin: 1%;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.tarjetaMediana {
+    width: 50%;
+    background-color: rgb(126, 214, 243);
+    border-radius: 5px;
+    text-align: center;
+    border: solid; 
+    margin: 1%;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tarjetaGrande {
+    width: 40%;
+    background-color: rgb(126, 214, 243);
+    border-radius: 5px;
+    text-align: center;
+    border: solid;
+    margin: 1%;
+    padding: 1%;
+}
+
+.tarjetamasgrande {
+    width: 40%;
+    background-color: rgb(126, 214, 243);
+    border-radius: 5px;
+    text-align: center;
+    border: solid;
+    margin: 1%;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grohl {
+    max-width: 100%;
+}
+
+#navegacion {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+#navegacion a {
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: x-large;
+}
+.HOME{
+    text-align: left;  
+    font-size: x-large;
+}
+.HOME a{
+color: antiquewhite;
+text-decoration: none;
+}

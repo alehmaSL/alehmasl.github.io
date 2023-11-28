@@ -1,0 +1,91 @@
+body {
+    background-image: url('contaminacion-ambiental-e1618532000745.jpg');
+
+}
+
+.HOME{
+    text-align: left;  
+    font-size: x-large;
+}
+.HOME a{
+color: antiquewhite;
+text-decoration: none;
+}
+
+#contenedor {
+    width: 90%;
+    margin: auto;
+}
+
+#cuartos {
+    display: flex;
+    justify-content: space-around;
+}
+
+#tercios {
+    display: flex;
+    justify-content: space-around;
+}
+
+#medios {
+    display: flex;
+    justify-content: space-around;
+}
+
+.tarjetaChica {
+    width: 20%;
+    border-radius: 5px; 
+    text-align: center;
+    border: solid;
+    margin: 1%;
+    padding: 1%;
+}
+
+.tarjetaMediana {
+    width: 30%;
+    border-radius: 5px;
+    text-align: center;
+    border: solid; 
+    margin: 1%;
+    padding: 1%;
+}
+
+.tarjetaGrande {
+    width: 40%;
+    border-radius: 5px; color: antiquewhite;
+    text-align: center;
+    margin: 1%;
+    padding: 1%;
+}
+.tarjetaGrande {
+font-size: large;
+}
+
+.tarjetamasgrande {
+    width: 100%;
+    border-radius: 5px;
+    display: center;
+    text-align: center;
+    border: solid;
+    margin: 1%;
+    padding: 1%;
+}
+.tarjetamasgrande{
+    color: antiquewhite;
+    font-size: x-large;
+}
+
+.grohl {
+    max-width: 100%;
+}
+#navegacion {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+#navegacion a {
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: x-large;
+}

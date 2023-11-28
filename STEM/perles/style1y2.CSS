@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(210, 146, 172);
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+#contenedor{
+    width: 90%;
+    margin: auto;
+    background-color: rgb(210, 146, 172);
+}
+
+#cuartos{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-around;
+}
+
+#tercios{
+    background-color:  rgb(210, 146, 172);
+    display: flex;
+    justify-content: space-around;
+}
+
+#medios{
+    background-color:  rgb(210, 146, 172);
+    display: flex;
+    justify-content: space-around;
+}
+
+.tarjetaChica{
+    width: 20%;
+    background-color:  rgb(210, 146, 172);
+    border-radius: 5px;
+    text-align: left;
+    border: solid;
+    margin: 1%;
+    padding: 1px;
+}
+
+.tarjetaGrande{
+    width: 50%;
+    background-color: rgb(210, 146, 172);
+    border-radius: 5px;
+    text-align: left;
+    border: solid;
+    margin: 1%;
+    padding: 1px; 
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:  rgb(210, 146, 172);
+}
+
+img{ 
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    width: 600px;
+}

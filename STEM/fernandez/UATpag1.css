@@ -1,0 +1,60 @@
+html{
+    background-color: #008BF8;
+}
+body{
+    font-family: 'Merriweather', serif;
+    background-color: rgba(255, 255, 255, 0.781);
+    width: 90%;
+    margin:0 5%;
+    box-shadow:0px 0px 20px 10px rgb(255, 255, 255)  ;
+}
+
+.imagenes1{
+ display: flex;
+ justify-content: space-around;
+}
+
+.imagenes2{
+    display: flex;
+    justify-content: center;
+}
+
+.carta{
+    text-align: center;
+    width: 30%;
+}
+
+.carta img {
+    max-width: 100%;
+}
+
+#subtitle{
+    text-align: center;
+    padding: 1%;
+}
+
+h1{
+    padding: 1%;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.Footerlogo{
+    padding-right: 10%;
+}
+.Footerdire{
+    padding-left: 1%;
+}
+.footerimg{
+    display: flex;
+   flex-direction: row;
+   padding-right: 10%;
+}
+.imgfooter{
+    height: 20px;
+    display: inline;
+    margin: 0 20%;
+}

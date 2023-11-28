@@ -1,0 +1,44 @@
+body{
+     background-image: url('fondo\ diseño.png');
+     background-repeat: no-repeat;
+}
+
+.HOME{
+     text-align: left;  
+     font-size: x-large;
+}
+.HOME a{
+color: antiquewhite;
+text-decoration: none;
+}
+.titulo{
+     color: antiquewhite;
+     position: center;
+     text-align: center;
+     height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+     }
+
+.Nombres{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: antiquewhite;
+    
+}
+
+#navegacion {
+     display: flex;
+     flex-direction: column;
+     align-items: flex-end;
+}
+
+#navegacion a {
+     color: antiquewhite;
+     text-decoration: none;
+     font-size: x-large;
+}
