@@ -1,0 +1,17 @@
+h1{
+    background-color: cornflowerblue;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding-left: 25%;
+    width: 1000px;
+}

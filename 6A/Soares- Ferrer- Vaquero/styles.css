@@ -1,0 +1,112 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #791568;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f06eee;
+    box-shadow: 0px 0px 5px 0px #888888;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    color: #333;
+}
+
+/* Estilos para el menú de navegación */
+.navbar {
+    background-color: #991313;
+}
+
+.navbar-brand {
+    color: #464646;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+/* Estilos para los botones */
+.btn-primary {
+    background-color: #007BFF;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos para el formulario */
+form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Estilos para las secciones */
+section {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Estilos para listas */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Estilos para enlaces */
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.grafico{
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+}
+
+.grafico img{
+    flex: 1;
+    margin: 10px;
+    max-width: 75%;
+    height: auto;
+}
+.imagen{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.imagen img{
+    flex: 1;
+    margin: 10px;
+    max-width: 50%;
+    height: auto;
+}
+.imagen2{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.imagen2 img{
+    flex: 1;
+    margin: 10px;
+    max-width: 50%;
+    height: auto;
+}
