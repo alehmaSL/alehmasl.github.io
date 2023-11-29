@@ -63,3 +63,7 @@ img{
     align-items: center;
     width: 600px;
 }
+
+.tarjetaGrande img {
+    max-width: 100%;
+}

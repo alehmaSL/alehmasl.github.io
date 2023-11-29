@@ -1,0 +1,21 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#texto{
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: lightpink;
+}
+#texto1{
+    
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    width: 1500px;
+}
