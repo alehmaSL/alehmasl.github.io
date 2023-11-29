@@ -1,0 +1,40 @@
+body{
+    background-image: url('home.webp');
+    background-repeat: no-repeat;
+    background-size: 100%;    
+}
+.HOME a{
+    color: rgb(208, 173, 0);
+    text-decoration: none;
+    font-size: x-large;
+    }
+.titulo{
+    color: rgb(208, 173, 0);
+    position: center;
+    text-align: center;
+    height: 500px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: xx-large;
+    }
+
+.Nombres{
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        color: rgb(0, 0, 0);
+    }
+
+    #navegacion a{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+   }
+   
+   #navegacion a{
+        color: rgb(0, 0, 0);
+        text-decoration: none;
+        font-size: x-large;
+   }
