@@ -1,0 +1,44 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+.titulo{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: rgb(0, 99, 186);
+}
+
+.fondoT{
+    background-color: rgb(203, 16, 81);
+    border-radius: 10px;
+    padding: 2%;
+}
+
+.cambiodepagina{
+    background-color: rgb(255, 221, 0);
+    border-radius: 0%;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.divnav:hover{
+    background-color: rgb(104, 142, 247);
+}
+
+footer{
+    background-color: rgb(255, 221, 0);
+    padding: 0.1cm;
+    text-align: center;
+}
+
+.pie-de-pagina{
+    font-style: italic;
+}

@@ -1,0 +1,54 @@
+html{
+    background-image: url('Fondo2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+h1{ font-size: 90px;
+    display: flex;
+    justify-content: center;
+    font-family:serif, cursive;
+} 
+h2 { font-size: 40px;
+    display: flex;
+    justify-content: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    ;
+}
+
+h3 {
+    display: flex;
+    align-items: center;
+display: flex;
+justify-content: space-evenly;
+}
+
+h4 {
+    display: flex;
+    align-items: center;
+display: flex;
+justify-content: space-evenly;
+}
+
+h5 {display: flex;
+    align-items: center;
+    display: flex;
+justify-content: space-evenly;
+}
+
+h6  {
+    display: flex;
+    align-items: center;
+display: flex;
+justify-content: space-evenly;
+}
+
+h7 {
+     font-size: 20px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: space-around
+    ;
+}

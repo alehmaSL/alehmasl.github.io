@@ -1,0 +1,31 @@
+table{align-items: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    text-align: center;
+    align-content: center;
+    margin: 0 auto;}
+    
+    body {background-color: rgb(179, 231, 255);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+    
+        h1 {text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 65px;}
+    
+        nav {background-color: rgb(61, 126, 255);
+            align-items: center;
+            display: flex;
+            justify-content: space-between;
+            font-size: x-large;
+            padding: 15px 80px;
+            margin: 28px;
+            box-shadow: 3px 3px 11px black;}
+    
+            a{color: aliceblue;}
+    
+            .pie { text-align: center;
+                padding: 20px;
+                position: relative;
+                bottom: 0;
+                width: 100%;
+            color: rgb(0, 0, 0);}
+    

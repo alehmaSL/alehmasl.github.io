@@ -1,0 +1,72 @@
+html{
+    background-image: url(Fondo2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body {
+    margin: 60px 110px;
+}
+
+h1{ font-size: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:serif, cursive;
+} 
+
+h2{ font-size: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:serif, cursive;
+} 
+
+h3{ font-size: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:serif, cursive;
+} 
+
+h4{ font-size: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:serif, cursive;
+} 
+
+h5{ font-size: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:serif, cursive;
+}  
+
+h6{ font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:serif, cursive;
+    color: black;
+}  
+.menu-items {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 30px;
+    }
+
+.nombre {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.precio {
+    font-size: 20px;
+    text-align: right;
+}
+
+.descripcion {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
