@@ -1,0 +1,100 @@
+h1{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    margin: auto;
+    padding: 1%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+    box-shadow: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;  
+   background-color: deepskyblue;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+.divizq{
+    display: flex;
+    align-items: flex-start;
+    width: 40%;   
+}
+
+.divder{
+    width: 40%;
+    height: 200px;
+    display: flex;
+    direction: column;
+    justify-content: center;
+}
+
+.divarriba {
+    width: 50%;
+    justify-content: center;
+}
+
+.divabajo {
+    width: 50%;
+    justify-content: center;
+}
+
+.divizq2{
+    width: 70%; 
+
+}
+ .divder2{
+    width: 25%;
+    border-width: 2%;
+    border: solid deepskyblue; 
+    border-radius: 5px;
+    margin: 1%;
+    padding: 1%;
+ }
+
+ #contenedorClub {
+    display: flex;
+ }
+ #evento1{
+    display: flex;
+    justify-content: space-around;
+ }
+
+ #evento2{
+    display: flex;
+    justify-content: space-around;
+ }
+
+ #deporte1{
+    display: flex;
+    justify-content: space-between;
+ }
+ .fotodep1{
+    display: flex;
+    align-items: flex-start;
+ }
+
+ .infodep1{
+display: flex;
+align-items: flex-end;
+ }
+
+footer {
+    position: static;
+    bottom: 0 ;
+    background-color: deepskyblue;
+}

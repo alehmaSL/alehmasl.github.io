@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto House - Contacto</title>
+    <link rel="stylesheet" href="concesionario.css">
+</head>
+<body>
+
+    <header>
+        <h1>Auto House</h1>
+        <nav>
+            <ul>
+                <li><a href="inicio.html">Home</a></li>
+                <li><a href="autos.html">Autos</a></li>
+                <li><a href="servicios.html">Servicios</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="empresa.html">Empresa</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Contáctanos para más información.</p>
+        <form action="enviar.php" method="post">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="mensaje" required></textarea>
+            
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>Auto House &copy; 2024</p>
+        <p>Contacto: info@autohouse.com</p>
+    </footer>
+
+</body>
+</html>

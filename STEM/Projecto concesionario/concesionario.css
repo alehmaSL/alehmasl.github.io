@@ -1,0 +1,170 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f8f5f5;
+    color: #333333;
+    line-height: 1.6;
+}
+
+
+header {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 1rem;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2rem;
+    color: #FFD700; 
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+nav ul li {
+    margin: 0 1.5rem;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #FFD700; 
+}
+
+
+section {
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: #000000;
+}
+
+section p {
+    max-width: 600px;
+    margin: 0 auto 2rem auto;
+    color: #333333;
+}
+
+
+.auto {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem 0;
+    background-color: #f9f9f9;
+}
+
+.auto h3 {
+    font-size: 1.5rem;
+    color: #000000;
+}
+
+.auto img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 8px;
+    margin-top: 0.5rem;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+form label {
+    display: block;
+    font-weight: bold;
+    margin: 0.5rem 0 0.25rem 0;
+}
+
+form input, form textarea, form button {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+form button {
+    background-color: #000000;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+form button:hover {
+    background-color: #FFD700; 
+    color: #000000;
+}
+
+.servicio {  
+    background-color: gold;
+    border-radius: 10px;
+    margin: 15px auto;
+    padding: 15px;
+    width: 85%;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.auto {  
+    background-color: gold;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.944);
+    margin: 15px auto;
+    padding: 15px;
+    width: 85%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 1.5rem;
+    margin-top: 2rem;
+}
+
+footer p {
+    margin: 0.5rem 0;
+}
+
+footer p a {
+    color: #FFD700; 
+    text-decoration: none;
+}
+
+footer p a:hover {
+    color: #ffffff;
+}
+
+    #groso {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100; 
+      }
+      
+      #fotopibes {
+        width: 30%; 
+      }
+   

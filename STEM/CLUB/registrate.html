@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="club.css">
+    <title>formulario</title>
+</head>
+<body>
+
+    <nav>
+        <a href="inicio.html"><img src="unnamed.png" alt="escudo" srcset="" height="100px"></a>
+        <div class="divNav"><a href="club.html">Club</a></div>
+        <div class="divNav"><a href="sedes.html">Sedes</a></div>
+        <div class="divNav"><a href="agenda.html">Agenda</a></div>
+        <div class="divNav"><a href="deportes.html">Deportes</a></div>
+    </nav>
+
+
+    <h1>Registrate</h1>
+    <h3>Completá el formulario a continuación</h3>
+    <form>
+        <label for="Nombre del usuario">Ingrese su nombre</label>
+        <br>
+        <input type="text" name="nombre del usuario" placeholder="Nombre" required>
+        <br>
+        <label for="Apellido del usuario">Ingrese su apellido</label>
+        <br>
+        <input type="text" name="Apellido del usuario" placeholder="Apellido" required>
+        <br>
+        <label for="Fecha de nacimiento">Ingrese su fecha de nacimiento</label>
+        <br>
+        <input type="date" name="Fecha de nacimiento" placeholder="Fecha de nacimiento">
+        <br>
+        <label for="Correo electrónico">Ingrese su correo electrónico</label>
+        <br>
+        <input type="email" name="Correo electrónico" placeholder="Correo electrónico">
+        <br>
+        <label for="Teléfono">Ingrese su teléfono</label>
+        <br>
+        <input type="tel" name="Teléfono" placeholder="Teléfono" id="">
+        <br>
+        <label for="Nombre del usuario">Ingrese nombre de usuario</label>
+        <br>
+        <input type="text" name="nombre de usuario" placeholder="Usuario" required>
+        <br>
+        <label for="Contraseña">Ingresa la contraseña</label>
+        <br>
+        <input type="password" name="contraseña" placeholder="Contraseña" required>
+        <br>
+        <select name="Género" >Género
+            <option value="Fem">Femenino</option>
+            <option value="Masc">Masculino</option>
+            <option value="NoBin">No binario</option>
+            <option value="NoDec">Prefiero no decirlo</option>
+        </select>
+        <br>
+        <label for="Novedades">Recibir novedades</label>
+        <br>
+        <input type="radio" name="Opción" value="Si"> Si
+        <br>
+        <input type="radio" name="Opción" value="No"> No
+        <br>
+        <label for="Acepto">Aceptar términos y condiciones</label>
+        <input type="checkbox" name="Aceptar" >
+        <br>
+        <input type="submit" name="Enviar">
+        <input type="reset" name="Reestablecer" >
+    </form>
+    <footer> <p>Website diseñado por: Bakir, Loustau, Navickis y Ricaldoni</p></footer>
+</body>
+</html>
