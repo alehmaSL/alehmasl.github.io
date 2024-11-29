@@ -1,0 +1,51 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url('back.jpg');
+    background-size: 100%;
+}
+
+body {
+    padding: 1%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.links, .linksI {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1%;
+}
+
+.links a {    
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px;
+    padding: 1%;
+    margin-top: 1%;
+    text-align: center;
+    font-size: 1.5em;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+a:hover {
+    transform: scale(1.3);
+}
+
+a, a:visited {
+    color: darkblue;
+}
+
+.card {
+    width: 25%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px;
+    padding: 2%;
+    margin-top: 1%;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.card:hover {
+    transform: scale(1.2);
+}

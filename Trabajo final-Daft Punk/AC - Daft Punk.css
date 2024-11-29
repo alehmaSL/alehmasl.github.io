@@ -1,0 +1,82 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: url(daft\ punk\ fondo.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+header {
+    background-color: #000000;
+    padding: 10px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: 2px solid transparent;
+    font-size: 18px;
+    transition: all 0.3s ease-in-out;
+}
+
+nav ul li a:hover, nav ul li a.active {
+    color: #00ffcc;
+    border: 2px solid #00ffcc;
+    border-radius: 5px;
+    background: rgba(0, 255, 204, 0.1);
+}
+
+h1,h2{
+    color: #fff;
+    text-shadow: 0 0 10px #0ff, 0 0 20px #0ff, 0 0 30px #0ff, 0 0 40px #0ff, 0 0 70px #0ff, 0 0 80px #0ff, 0 0 80px #0ff, 0 0 150px #0ff;
+}
+
+p, li{
+    color: #bbb;
+}
+.home-section .intro{
+    text-align: center;
+    padding: 60px 20px;
+}
+.explore-btn{
+    color: #00ffcc;
+    border: 2px solid #00ffcc;
+    border-radius: 5px;
+    background: rgba(0, 255, 204, 0.1);
+}
+
+.gallery-section{
+    padding: 40px 20px;
+    text-align: center;
+}
+.biography-section{
+    padding: 40px 20px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #000000;
+    color: #00ffcc;
+    font-size: 0.9em;
+    border-top: 2px solid #00ffcc;
+}
