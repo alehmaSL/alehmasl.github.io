@@ -1,0 +1,219 @@
+body {
+    background-color: rgb(0, 149, 100);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.sobre {
+    font-size: xx-large;
+    margin-left: 20px;
+}
+
+.hashtag {
+    text-align: center;
+}
+
+.texto {
+    font-size: x-large;
+    margin-left: 20px;
+}
+
+nav {
+    background-color: rgb(200, 219, 255);
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+    padding: 15px 80px;
+    margin: 20px;
+    box-shadow: 3px 3px 11px black;
+    margin-top: -32px;
+}
+
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif font-size: 30px;
+    color: black
+}
+
+div {
+    text-align: center;
+    margin: auto;
+    background-color: rgb(173, 173, 173);
+    display: flex;
+}
+
+.principal {
+    text-align: center;
+    margin: 20px;
+}
+
+.principal h2 {
+    font-size: 100px;
+    margin-top: 10px;
+}
+
+.derecha {
+    align-content: end;
+}
+
+footer {
+    text-align: center;
+}
+
+.porto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin: 90px;
+}
+
+body {
+    background-color: rgb(0, 149, 100);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+nav {
+    background-color: hsl(219, 100%, 89%);
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+    padding: 15px 80px;
+    margin: 20px;
+    box-shadow: 3px 3px 11px black;
+    margin-top: -32px;
+}
+h2{
+    text-align: center;
+}
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif font-size: 30px;
+    color: black
+}
+
+table {
+    background-color: hsl(219, 100%, 89%);
+    margin: 0 auto;
+    font-size: x-large;
+    width: 60%;
+    border-collapse: collapse;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.primera {
+    background-color: rgb(18, 0, 119);
+    color: aliceblue;
+}
+
+footer {
+    text-align: center;
+}
+body {
+    background-color: rgb(0, 149, 100);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px;
+    text-align: center;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+nav {
+    background-color: rgb(200, 219, 255);
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+    padding: 15px 80px;
+    margin: 20px;
+    box-shadow: 3px 3px 11px black;
+    margin-top: -32px;
+}
+
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif font-size: 30px;
+    color: black
+}
+
+table {
+    margin: 0 auto;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+}
+body {
+    background-color: rgb(0, 149, 100);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+nav {
+    background-color: rgb(200, 219, 255);
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+    padding: 15px 80px;
+    margin: 20px;
+    
+    margin-top: -32px;
+}
+
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif font-size: 30px;
+    color: black
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+}

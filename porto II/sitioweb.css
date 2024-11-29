@@ -1,0 +1,70 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    color: rgb(76, 118, 216);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aliceblue;
+    font-weight: bold;
+    padding: 1%;
+}
+
+nav a {
+    text-decoration: none;
+    color: blue;
+}
+
+nav a:hover {
+    background-color:aqua;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(143, 154, 181);
+}
+
+body {
+    width: 80%;
+    margin: auto;
+    background-image: url(CIELO-AZUL-scaled-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(59, 74, 123);
+}
+
+.tarjeta {
+    background-color: rgb(109, 147, 147);
+    width: 80%;
+    margin: 20px auto;
+    display: flex;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+.tarjeta img {
+    padding: 1%;
+}
+
+.tarjeta1 { 
+    background-color: rgb(46, 135, 135);
+    width: 80%;
+    margin: 20px auto;
+    display: flex;
+    padding: 1%;
+    border-radius: 15px; 
+}
+
+.tarjeta1 img {
+    padding: 1%;
+}
+
+p {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+

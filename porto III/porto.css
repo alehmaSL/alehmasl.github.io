@@ -1,0 +1,47 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+      background-color: rgb(17, 124, 7);
+color: gold;    
+  text-align: center;
+      
+  }
+
+  body {
+    width: 85%;
+    margin: auto;
+    padding: 2%;
+
+  }
+
+  p{
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2
+{
+  font-family: 'Times New Roman', Times, serif; 
+  font-style: italic;
+  color: darkgreen; 
+  
+  
+}
+
+h3
+{
+    font-family: 'Times New Roman', Times, serif; 
+    color: darkgreen; 
+  }
+  
+  html{
+    background-color:rgb(247, 245, 173);
+    width: 100%; }
+
+    nav{display: flex;
+    justify-content: space-around;
+    }
+
+    #integrantes{
+        background-color: rgba(255, 252, 70, 0.658);
+        text-align: right;
+
+    }
