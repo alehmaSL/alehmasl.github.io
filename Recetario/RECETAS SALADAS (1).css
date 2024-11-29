@@ -1,0 +1,201 @@
+body {
+    background-color: #f3efe3; 
+    color: #160701;
+    line-height: 1.6;
+    font-size: 16px;
+    padding: 10px 25px;
+  }
+
+h1 {
+    font-size: 3em;
+    color: #be9d55; 
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 1.8em;
+    color: #a2916d;
+  }
+
+h3 {
+    font-family: 'Georgia', serif;
+    color: #5f381e;
+    text-align: left;
+    margin-bottom: 15px;
+    font-size: 1.6em;
+    margin-top: 40px;
+  }
+
+h4 {
+    font-family: 'Georgia', serif;
+    color: #3d311e;
+    text-align: justify;
+    margin-bottom: 15px;
+    font-size: 1.2em;
+    color: #d1cbcb;
+  }
+
+p {
+    color: #160701;
+    font-size: 1.3em;
+    text-align: justify;
+    text-indent: 2em;
+    line-height: 1.5em;
+  }
+
+  ul {
+    padding-left: 0;
+    text-align: center;
+    position: sticky;   
+    top: 0; 
+    background-color: #f3efe3;
+  }
+  
+  ul li {
+    display: inline-block;
+    margin: 10px 20px;
+  }
+  
+  ul li a {
+    font-size: 1.3em;
+    color: #be9d55;
+    padding: 5px 20px;
+    border-radius: 17px;
+    transition: background-color 0.3s ease;
+    outline: 1.8px solid #be9d55; 
+    outline-offset: 2px;
+    text-decoration: none;
+  }
+  
+  ul li a:hover {
+    background-color: #6b4b2e;
+  }
+
+  div {
+    margin-bottom: 20px;
+    background-color: #6b4b2e;
+    border-radius: 10px;
+    padding: 5px 15px;
+  }
+  
+  .contenido {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .ImgTarjeta {
+    border-radius: 5px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    max-height: 300px;
+    margin-right: 20px;
+  }
+
+  .cuadrado {
+    color: #d1cbcb;
+    font-size: 1.2em;
+    text-align: justify;
+  }
+
+  .Sconedequeso, .pastaboloñesa, .bagel, .empanadas {
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2), 0px 4px 10px rgba(0, 0, 0, 0.15);
+  }
+
+  
+  table {
+    width: 100%; 
+    border-collapse: collapse; 
+    margin: 20px;
+    padding: 20px;
+  }
+
+  th {
+    padding: 10px; 
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 1px solid #be9d55;
+  }
+
+  td {
+    padding: 10px; 
+    text-align: left;
+    border-bottom: 1px solid #be9d55;
+    font-size: 1.1em;
+  }
+
+  tr:nth-child(even) {
+    background-color: #ece4cc;
+  }
+
+  .Timg {
+    padding: 20px;
+    text-align: center;
+  }
+
+  ol{
+    color: #160701;
+    font-size: 1.3em;
+    text-align: justify;
+    line-height: 1.5em;
+  }
+
+  fieldset{
+    width: 95%;
+    border: 2px solid #be9d55;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  legend {
+    font-size: 1.4em;
+    font-weight: bold;
+    color: #be9d55;
+    padding: 0 10px;
+  }
+
+  .Tnew {
+    width: 70%;
+    border-collapse: collapse;
+    margin: 10px 0;
+    margin-left: 2em;
+  }
+
+  .Tnew td {
+    border: none;
+  }
+
+  .Tnew :nth-child(even) {
+    background-color: #f3efe3;
+  }
+
+  input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    font-size: 1.1em;
+    border: 2px solid #be9d55;
+    border-radius: 6px;
+    margin: 10px 0;
+    background-color: #f9f3db;
+}
+
+  input[type="submit"] {
+    background-color: #f9f3db;
+    color: #be9d55;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid #be9d55;
+    padding: 12px 15px;
+    font-size: 1.2em;
+    border-radius: 6px;
+    margin-left: 2.1em;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #6b4b2e;
+  }
+  
