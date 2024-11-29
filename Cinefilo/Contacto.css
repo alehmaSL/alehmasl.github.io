@@ -1,0 +1,83 @@
+nav {
+    background-color: #a09999;
+    box-shadow: 3px 3px 11px #130303;
+    align-items: center;
+    border-right: #a09999;
+    display: flex;
+    justify-content: space-between;
+    color: #f4f4f4;
+    padding: 15px 70px;
+    color padding: 1em;
+    font-size: 24px;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    font-size: 20px;
+}
+
+h1 {
+    text-size-adjust: 300;
+    font-size: 48px;
+    text-align: center;
+}
+
+.texto {
+    margin-right: 20px;
+    font-size: 24px;
+}
+
+img {
+    padding-top: 15px;
+}
+
+body {
+    background-color: white;
+}
+
+.perfil {
+    margin-left: 5px;
+}
+
+.encabezado {
+    background-color: rgb(66, 64, 50);
+    display: flex;
+    align-items: center;
+    padding-left: 1%;
+    color: #f4f4f4;
+    padding-right: 1%;
+    font-family: fantasy;
+    font-size: smaller;
+    text-align: center;
+}
+
+.jo {
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.titulo {
+    padding-left: 200px;
+    text-align: center;
+}
+
+.rese {
+    background-color: rgb(187, 187, 187);
+    display: flexbox;
+    width: 80%;
+    box-shadow: 3px 3px 11px #130303;
+    text-align: justify;
+    margin: auto;
+    border-radius: 10px;
+    padding: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.textoo {
+    margin-right: 20px;
+    font-size: 24px;
+}

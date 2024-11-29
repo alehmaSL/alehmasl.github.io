@@ -1,0 +1,150 @@
+#Escudoynombre{
+    display: flex;
+    background-color: #009ddd;
+    padding: 25px;
+    height: 250px;
+}
+
+#Nombreclub{
+    margin-left: 30px;
+    color: #f7fcfe;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#EscudoRacing{
+    width: 150px;
+    height: auto;
+
+}
+
+#Escudoynombre h1{
+    font-size: 60px;
+    margin-left: 100px;
+}
+
+nav{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(0, 6, 61);
+    font-size: 25px;
+ 
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.Opcionesdelmenu{
+
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+#HistoriadeRacing{
+color: white;
+background-color: #009ddd;
+font-family: sans-serif;
+font-size: 25px;
+border-radius: 5%;
+margin: auto;
+padding: 50px;
+width: 1400px;
+height: 400px;
+text-align: center;
+line-height: 50px;
+}
+
+#Youtubelogo{
+    width: 10px;
+    height: auto;
+}
+
+#LogoyusuarioYT{
+    display: flex;
+}
+
+#Contactos{
+    margin-left: 20px;
+}
+
+#usuario{
+    margin-left: 5px;
+    display: flex;
+}
+
+#TextoeImagen{
+    display: flex;
+    margin-top: 110px;
+}
+
+#Equipodejose{
+    margin: auto;
+    width: 800px;
+}
+
+#Textoeimagen2{
+margin-top: 200px;
+display: flex;
+}
+
+#Fotosede{
+margin: auto;
+width: 800px;
+}
+
+#Textosede{
+    color: white;
+    background-color: #009ddd;
+    font-family: sans-serif;
+    font-size: 25px;
+    border-radius: 5%;
+    margin: auto;
+    padding: 50px;
+    width: 1400px;
+    height: 400px;
+    text-align: center;
+    line-height: 50px;}
+
+#Contactos{
+    margin-top: 110px;
+    display: flex;
+}
+#YT{
+    display: flex;
+}
+
+#Logoyoutube{
+    width: 2%;
+    height: auto;
+    margin-right: 5px;
+    margin-left: 20px;
+}
+
+#Instagram{
+    display: flex;
+}
+
+#Logoinstagram{
+    width: 10%;
+    margin-right: 5px;
+}
+
+#Facebook{
+    display: flex;
+}
+
+#Logofacebook{
+    width: 3%;
+    height: auto;
+    margin-right: 5px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}

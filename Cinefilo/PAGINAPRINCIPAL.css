@@ -1,0 +1,57 @@
+                    nav {
+                        background-color: #a09999;
+                        box-shadow: 3px 3px 11px #130303;
+                        align-items: center;
+                        border-right: #a09999;
+                        display: flex;
+                        justify-content: space-between;
+                        color: #f4f4f4;
+                        padding: 15px 70px;
+                        color padding: 1em;
+                        font-size: 24px;
+                    }
+                    
+                    body {
+                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                        text-align: center;
+                        margin: 0;
+                        padding: 0;
+                        background-color: #f4f4f4;
+                        font-size: 20px;
+                    }
+                    
+                    h1 {
+                        text-size-adjust: 300;
+                        font-size: 48px;
+                    }
+                    
+                    .sobrenosotros {
+                        display: flex;
+                        align-items: center;
+                        padding-left: 16%;
+                        padding-right: 16%;
+                        text-align: justify;
+                        margin-right: 30px;
+                    }
+                    
+                    .texto {
+                        margin-right: 20px;
+                        font-size: 24px;
+                    }
+                    
+                    img {
+                        padding-top: 15px;
+                    }
+                    
+                    body {
+                        background-color: white;
+                    }
+                    
+                    .encabezado {
+                        background-color: rgb(66, 64, 50);
+                    }
+                    
+                    .jo {
+                        color: white;
+                        text-shadow: 2px 2px 2px black;
+                    }

@@ -1,0 +1,109 @@
+#Escudoynombre{
+    display: flex;
+    background-color: #009ddd;
+    padding: 25px;
+    height: 250px;
+}
+
+#Nombreclub{
+    margin-left: 30px;
+    color: #f7fcfe;
+    font-family: sans-serif;
+}
+
+#EscudoRacing{
+    width: 150px;
+    height: auto;
+
+}
+
+#Escudoynombre h1{
+    font-size: 60px;
+    margin-left: 100px;
+}
+
+nav{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(0, 6, 61);
+    font-size: 25px;
+ 
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.Opcionesdelmenu{
+
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Formulario{
+    background-color: #009ddd;
+    padding: 30px;
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 5px;
+}
+
+#Formulario h2{
+    color: white;
+    margin-bottom: 16px;
+    font-family: sans-serif;
+}
+
+.inputs{
+    width: 100%;
+    background-color: #009ddd;
+    padding: 8px ;
+    border-radius: 5px;
+    border-color: white;
+    margin-bottom: 16px;
+    color: white;
+}
+
+
+#Formtext1{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+#Formtext1 a{
+    color: white;
+}
+
+#Formtext2{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+#Formtext2 a{
+    color: white;
+}
+
+#Registrarse{
+  width: 100%;
+  background-color: white;
+  border-color: white;
+  border-radius: 5px;
+  margin-top: 16px;
+  color: #009ddd;
+  padding: 8px;
+  margin-bottom: 16px;
+}

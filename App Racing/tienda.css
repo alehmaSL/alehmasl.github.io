@@ -1,0 +1,89 @@
+#Escudoynombre{
+    display: flex;
+    background-color: #009ddd;
+    padding: 25px;
+    height: 250px;
+}
+
+#Nombreclub{
+    margin-left: 30px;
+    color: #f7fcfe;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#EscudoRacing{
+    width: 150px;
+    height: auto;
+
+}
+
+#Escudoynombre h1{
+    font-size: 60px;
+    margin-left: 100px;
+}
+
+nav{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(0, 6, 61);
+    font-size: 25px;
+ 
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.Opcionesdelmenu{
+
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+#productosdiv1{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around; 
+width: 100%;
+}
+
+#productosdiv1 img{
+    width: 300px;
+}
+
+
+.precio{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #009ddd;
+    text-align: center;
+}
+
+.nombre{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #009ddd;
+    text-align: center;
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 60px;
+    color: #009ddd;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+#productosdiv2{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around; 
+}
+
+#productosdiv2 img{
+    width: 300px;
+}

@@ -1,0 +1,82 @@
+#Escudoynombre{
+    display: flex;
+    background-color: #009ddd;
+    padding: 25px;
+    height: 250px;
+}
+
+#Nombreclub{
+    margin-left: 30px;
+    color: #f7fcfe;
+    font-family: sans-serif;
+}
+
+#EscudoRacing{
+    width: 150px;
+    height: auto;
+
+}
+
+#Escudoynombre h1{
+    font-size: 60px;
+    margin-left: 100px;
+}
+
+nav{
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(0, 6, 61);
+    font-size: 25px;
+ 
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+
+.Opcionesdelmenu{
+
+    color: white;
+    font-family: sans-serif;
+    text-decoration: none;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Titulo{
+    font-family: sans-serif;
+    color: #009ddd;
+}
+
+#Titlebox{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#terminosycondiciones{
+    font-family: sans-serif;
+    line-height: 20px;
+}
+
+#boton{
+    padding: 15px;
+    background-color: #009ddd;
+    border: white;
+    color: white;
+    font-size: 20px;
+}
+
+#buttonbox{
+    margin-top: 50px;
+    text-align: center;
+
+}
